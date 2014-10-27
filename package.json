@@ -1,0 +1,25 @@
+{
+  "name": "hubot-fillup",
+  "version": "0.0.1",
+  "description": "fillup chatroom with image",
+  "main": "index.coffee",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "hubot",
+    "hubot-scripts"
+  ],
+  "dependencies": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:dameleon/hubot-fillup.git"
+  },
+  "bugs": {
+    "url": "https://github.com/dameleon/hubot-fillup/issues"
+  },
+  "homepage": "https://github.com/dameleon/hubot-fillup",
+  "author": "dameleon",
+  "license": "MIT"
+}
