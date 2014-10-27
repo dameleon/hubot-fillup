@@ -11,6 +11,7 @@
     "hubot-scripts"
   ],
   "dependencies": {
+    "btoa": "^1.1.2"
   },
   "repository": {
     "type": "git",
